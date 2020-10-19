@@ -13,6 +13,13 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
+# .gitignore 
+node_modules
+
+# .npmignore
+node_modules
+tests
+
 .idea/
 .vscode/
 node_modules/
